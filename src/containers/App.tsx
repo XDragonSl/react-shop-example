@@ -2,9 +2,9 @@ import React from 'react';
 
 import { ThemeProvider } from '@material-ui/styles';
 
-import MainBar from './MainBar/MainBar';
-import ContentTabs from './ContentTabs/ContentTabs';
-import theme from './Theme';
+import MainBar from '../components/MainBar/MainBar';
+import ContentTabs from '../components/ContentTabs/ContentTabs';
+import theme from '../Theme';
 
 import './App.css';
 
